@@ -1,121 +1,121 @@
 name,state_appt_from,appointed_by_president,judicial_oath_taken,date_service_terminated,index
-"Jay, John",New York,Washington,1789-10-19,1795-06-29,1
-"Rutledge, John",South Carolina,Washington,1790-02-15,1791-03-05,2
-"Johnson, Thomas",Maryland,Washington,1791-09-19,1793-01-16,3
-"Paterson, William",New Jersey,Washington,1793-03-11,1806-09-09,4
-"Rutledge, John",South Carolina,Washington,1795-08-12,1795-12-15,5
-"Chase, Samuel",Maryland,Washington,1796-02-04,1811-06-19,6
-"Ellsworth, Oliver",Connecticut,Washington,1796-03-08,1800-12-15,7
-"Washington, Bushrod",Virginia,"Adams, John",1798-11-09,1829-11-26,8
-"Moore, Alfred",North Carolina,"Adams, John",1800-04-21,1804-01-26,9
-"Marshall, John",Virginia,"Adams, John",1801-02-04,1835-07-06,10
-"Johnson, William",South Carolina,Jefferson,1804-05-07,1834-08-04,11
-"Livingston, Brockholst",New York,Jefferson,1807-01-20,1823-03-18,12
-"Todd, Thomas",Kentucky,Jefferson,1807-05-04,1826-02-07,13
-"Duvall, Gabriel",Maryland,Madison,1811-11-23,1835-01-14,14
-"Trimble, Robert",Kentucky,"Adams, J. Q.",1826-06-16,1828-08-25,15
-"McLean, John",Ohio,Jackson,1829-03-12,1861-04-04,16
-"Baldwin, Henry",Pennsylvania,Jackson,1830-01-18,1844-04-21,17
-"Wayne, James Moore",Georgia,Jackson,1835-01-14,1867-07-05,18
-"Taney, Roger Brooke",Maryland,Jackson,1836-03-28,1864-10-12,19
-"Barbour, Philip Pendleton",Virginia,Jackson,1836-05-12,1841-02-25,20
-"Catron, John",Tennessee,Jackson,1837-05-01,1865-05-30,21
-"Nelson, Samuel",New York,Tyler,1845-02-27,1872-11-28,22
-"Grier, Robert Cooper",Pennsylvania,Polk,1846-08-10,1870-01-31,23
-"Clifford, Nathan",Maine,Buchanan,1858-01-21,1881-07-25,24
-"Swayne, Noah Haynes",Ohio,Lincoln,1862-01-27,1881-01-24,25
-"Miller, Samuel Freeman",Iowa,Lincoln,1862-07-21,1890-10-13,26
-"Davis, David",Illinois,Lincoln,1862-12-10,1877-03-04,27
-"Field, Stephen Johnson",California,Lincoln,1863-05-20,1897-12-01,28
-"Chase, Salmon Portland",Ohio,Lincoln,1864-12-15,1873-05-07,29
-"Strong, William",Pennsylvania,Grant,1870-03-14,1880-12-14,30
-"Bradley, Joseph P.",New Jersey,Grant,1870-03-23,1892-01-22,31
-"Hunt, Ward",New York,Grant,1873-01-09,1882-01-27,32
-"Waite, Morrison Remick",Ohio,Grant,1874-03-04,1888-03-23,33
-"Harlan, John Marshall",Kentucky,Hayes,1877-12-10,1911-10-14,34
-"Woods, William Burnham",Georgia,Hayes,1881-01-05,1887-05-14,35
-"Matthews, Stanley",Ohio,Garfield,1881-05-17,1889-03-22,36
-"Gray, Horace",Massachusetts,Arthur,1882-01-09,1902-09-15,37
-"Blatchford, Samuel",New York,Arthur,1882-04-03,1893-07-07,38
-"Lamar, Lucius Quintus C.",Mississippi,Cleveland,1888-01-18,1893-01-23,39
-"Fuller, Melville Weston",Illinois,Cleveland,1888-10-08,1910-07-04,40
-"Brewer, David Josiah",Kansas,Harrison,1890-01-06,1910-03-28,41
-"Brown, Henry Billings",Michigan,Harrison,1891-01-05,1906-05-28,42
-"Shiras, George, Jr.",Pennsylvania,Harrison,1892-10-10,1903-02-23,43
-"Jackson, Howell Edmunds",Tennessee,Harrison,1893-03-04,1895-08-08,44
-"White, Edward Douglass",Louisiana,Cleveland,1894-03-12,1910-12-18,45
-"Peckham, Rufus Wheeler",New York,Cleveland,1896-01-06,1909-10-24,46
-"McKenna, Joseph",California,McKinley,1898-01-26,1925-01-05,47
-"Holmes, Oliver Wendell",Massachusetts,"Roosevelt, T.",1902-12-08,1932-01-12,48
-"Day, William Rufus",Ohio,"Roosevelt, T.",1903-03-02,1922-11-13,49
-"Moody, William Henry",Massachusetts,"Roosevelt, T.",1906-12-17,1910-11-20,50
-"Lurton, Horace Harmon",Tennessee,Taft,1910-01-03,1914-07-12,51
-"Hughes, Charles Evans",New York,Taft,1910-10-10,1916-06-10,52
-"White, Edward Douglass",Louisiana,Taft,1910-12-19,1921-05-19,53
-"Van Devanter, Willis",Wyoming,Taft,1911-01-03,1937-06-02,54
-"Lamar, Joseph Rucker",Georgia,Taft,1911-01-03,1916-01-02,55
-"Pitney, Mahlon",New Jersey,Taft,1912-03-18,1922-12-31,56
-"McReynolds, James Clark",Tennessee,Wilson,1914-10-12,1941-01-31,57
-"Clarke, John Hessin",Ohio,Wilson,1916-10-09,1922-09-18,58
-"Taft, William Howard",Connecticut,Harding,1921-07-11,1930-02-03,59
-"Sutherland, George",Utah,Harding,1922-10-02,1938-01-17,60
-"Butler, Pierce",Minnesota,Harding,1923-01-02,1939-11-16,61
-"Sanford, Edward Terry",Tennessee,Harding,1923-02-19,1930-03-08,62
-"Stone, Harlan Fiske",New York,Coolidge,1925-03-02,1941-07-02,63
-"Hughes, Charles Evans",New York,Hoover,1930-02-24,1941-06-30,64
-"Roberts, Owen Josephus",Pennsylvania,Hoover,1930-06-02,1945-07-31,65
-"Cardozo, Benjamin Nathan",New York,Hoover,1932-03-14,1938-07-09,66
-"Black, Hugo Lafayette",Alabama,"Roosevelt, F.",1937-08-19,1971-09-17,67
-"Reed, Stanley Forman",Kentucky,"Roosevelt, F.",1938-01-31,1957-02-25,68
-"Frankfurter, Felix",Massachusetts,"Roosevelt, F.",1939-01-30,1962-08-28,69
-"Douglas, William Orville",Connecticut,"Roosevelt, F.",1939-04-17,1975-11-12,70
-"Murphy, Frank",Michigan,"Roosevelt, F.",1940-02-05,1949-07-19,71
-"Stone, Harlan Fiske",New York,"Roosevelt, F.",1941-07-03,1946-04-22,72
-"Byrnes, James Francis",South Carolina,"Roosevelt, F.",1941-07-08,1942-10-03,73
-"Jackson, Robert Houghwout",New York,"Roosevelt, F.",1941-07-11,1954-10-09,74
-"Rutledge, Wiley Blount",Iowa,"Roosevelt, F.",1943-02-15,1949-09-10,75
-"Burton, Harold Hitz",Ohio,Truman,1945-10-01,1958-10-13,76
-"Vinson, Fred Moore",Kentucky,Truman,1946-06-24,1953-09-08,77
-"Clark, Tom Campbell",Texas,Truman,1949-08-24,1967-06-12,78
-"Minton, Sherman",Indiana,Truman,1949-10-12,1956-10-15,79
-"Warren, Earl",California,Eisenhower,1953-10-05,1969-06-23,80
-"Harlan, John Marshall",New York,Eisenhower,1955-03-28,1971-09-23,81
-"Brennan, William J., Jr.",New Jersey,Eisenhower,1956-10-16,1990-07-20,82
-"Whittaker, Charles Evans",Missouri,Eisenhower,1957-03-25,1962-03-31,83
-"Stewart, Potter",Ohio,Eisenhower,1958-10-14,1981-07-03,84
-"White, Byron Raymond",Colorado,Kennedy,1962-04-16,1993-06-28,85
-"Goldberg, Arthur Joseph",Illinois,Kennedy,1962-10-01,1965-07-25,86
-"Fortas, Abe",Tennessee,"Johnson, L.",1965-10-04,1969-05-14,87
-"Marshall, Thurgood",New York,"Johnson, L.",1967-10-02,1991-10-01,88
-"Burger, Warren Earl",Virginia,Nixon,1969-06-23,1986-09-26,89
-"Blackmun, Harry A.",Minnesota,Nixon,1970-06-09,1994-08-03,90
-"Powell, Lewis F., Jr.",Virginia,Nixon,1972-01-07,1987-06-26,91
-"Rehnquist, William H.",Arizona,Nixon,1972-01-07,1986-09-26,92
-"Stevens, John Paul",Illinois,Ford,1975-12-19,2010-06-29,93
-"O'Connor, Sandra Day",Arizona,Reagan,1981-09-25,2006-01-31,94
-"Rehnquist, William H.",Virginia,Reagan,1986-09-26,2005-09-03,95
-"Scalia, Antonin",Virginia,Reagan,1986-09-26,2016-02-13,96
-"Kennedy, Anthony M.",California,Reagan,1988-02-18,2018-07-31,97
-"Souter, David H.",New Hampshire,"Bush, G. H. W.",1990-10-09,2009-06-29,98
-"Thomas, Clarence",Georgia,"Bush, G. H. W.",1991-10-23,NA,99
-"Ginsburg, Ruth Bader",New York,Clinton,1993-08-10,2020-09-18,100
-"Breyer, Stephen G.",Massachusetts,Clinton,1994-08-03,NA,101
-"Roberts, John G., Jr.",Maryland,"Bush, G. W.",2005-09-29,NA,102
-"Alito, Samuel A., Jr.",New Jersey,"Bush, G. W.",2006-01-31,NA,103
-"Sotomayor, Sonia",New York,Obama,2009-08-08,NA,104
-"Kagan, Elena",Massachusetts,Obama,2010-08-07,NA,105
-"Gorsuch, Neil M.",Colorado,Trump,2017-04-10,NA,106
-"Kavanaugh, Brett M.",Maryland,Trump,2018-10-06,NA,107
-"Barrett, Amy Coney",Indiana,Trump,2020-10-27,NA,108
-"Cushing, William",Massachusetts,Washington,NA,1810-09-13,109
-"Wilson, James",Pennsylvania,Washington,NA,1798-08-21,110
-"Blair, John",Virginia,Washington,NA,1795-10-25,111
-"Iredell, James",North Carolina,Washington,NA,1799-10-20,112
-"Story, Joseph",Massachusetts,Madison,NA,1845-09-10,113
-"Thompson, Smith",New York,Monroe,NA,1843-12-18,114
-"McKinley, John",Alabama,Van Buren,NA,1852-07-19,115
-"Daniel, Peter Vivian",Virginia,Van Buren,NA,1860-05-31,116
-"Woodbury, Levi",New Hampshire,Polk,NA,1851-09-04,117
-"Curtis, Benjamin Robbins",Massachusetts,Fillmore,NA,1857-09-30,118
-"Campbell, John Archibald",Alabama,Pierce,NA,1861-04-30,119
-"Brandeis, Louis Dembitz",Massachusetts,Wilson,NA,1939-02-13,120
+"Wilson, James",Pennsylvania,Washington,1789-10-05,1798-08-21,1
+"Jay, John",New York,Washington,1789-10-19,1795-06-29,2
+"Cushing, William",Massachusetts,Washington,1790-02-02,1810-09-13,3
+"Blair, John",Virginia,Washington,1790-02-02,1795-10-25,4
+"Rutledge, John",South Carolina,Washington,1790-02-15,1791-03-05,5
+"Iredell, James",North Carolina,Washington,1790-05-12,1799-10-20,6
+"Johnson, Thomas",Maryland,Washington,1791-09-19,1793-01-16,7
+"Paterson, William",New Jersey,Washington,1793-03-11,1806-09-09,8
+"Rutledge, John",South Carolina,Washington,1795-08-12,1795-12-15,9
+"Chase, Samuel",Maryland,Washington,1796-02-04,1811-06-19,10
+"Ellsworth, Oliver",Connecticut,Washington,1796-03-08,1800-12-15,11
+"Washington, Bushrod",Virginia,"Adams, John",1798-11-09,1829-11-26,12
+"Moore, Alfred",North Carolina,"Adams, John",1800-04-21,1804-01-26,13
+"Marshall, John",Virginia,"Adams, John",1801-02-04,1835-07-06,14
+"Johnson, William",South Carolina,Jefferson,1804-05-07,1834-08-04,15
+"Livingston, Brockholst",New York,Jefferson,1807-01-20,1823-03-18,16
+"Todd, Thomas",Kentucky,Jefferson,1807-05-04,1826-02-07,17
+"Duvall, Gabriel",Maryland,Madison,1811-11-23,1835-01-14,18
+"Story, Joseph",Massachusetts,Madison,1812-02-03,1845-09-10,19
+"Thompson, Smith",New York,Monroe,1823-09-01,1843-12-18,20
+"Trimble, Robert",Kentucky,"Adams, J. Q.",1826-06-16,1828-08-25,21
+"McLean, John",Ohio,Jackson,1829-03-12,1861-04-04,22
+"Baldwin, Henry",Pennsylvania,Jackson,1830-01-18,1844-04-21,23
+"Wayne, James Moore",Georgia,Jackson,1835-01-14,1867-07-05,24
+"Taney, Roger Brooke",Maryland,Jackson,1836-03-28,1864-10-12,25
+"Barbour, Philip Pendleton",Virginia,Jackson,1836-05-12,1841-02-25,26
+"Catron, John",Tennessee,Jackson,1837-05-01,1865-05-30,27
+"McKinley, John",Alabama,Van Buren,1838-01-09,1852-07-19,28
+"Daniel, Peter Vivian",Virginia,Van Buren,1842-01-10,1860-05-31,29
+"Nelson, Samuel",New York,Tyler,1845-02-27,1872-11-28,30
+"Woodbury, Levi",New Hampshire,Polk,1845-09-23,1851-09-04,31
+"Grier, Robert Cooper",Pennsylvania,Polk,1846-08-10,1870-01-31,32
+"Curtis, Benjamin Robbins",Massachusetts,Fillmore,1851-10-10,1857-09-30,33
+"Campbell, John Archibald",Alabama,Pierce,1853-04-11,1861-04-30,34
+"Clifford, Nathan",Maine,Buchanan,1858-01-21,1881-07-25,35
+"Swayne, Noah Haynes",Ohio,Lincoln,1862-01-27,1881-01-24,36
+"Miller, Samuel Freeman",Iowa,Lincoln,1862-07-21,1890-10-13,37
+"Davis, David",Illinois,Lincoln,1862-12-10,1877-03-04,38
+"Field, Stephen Johnson",California,Lincoln,1863-05-20,1897-12-01,39
+"Chase, Salmon Portland",Ohio,Lincoln,1864-12-15,1873-05-07,40
+"Strong, William",Pennsylvania,Grant,1870-03-14,1880-12-14,41
+"Bradley, Joseph P.",New Jersey,Grant,1870-03-23,1892-01-22,42
+"Hunt, Ward",New York,Grant,1873-01-09,1882-01-27,43
+"Waite, Morrison Remick",Ohio,Grant,1874-03-04,1888-03-23,44
+"Harlan, John Marshall",Kentucky,Hayes,1877-12-10,1911-10-14,45
+"Woods, William Burnham",Georgia,Hayes,1881-01-05,1887-05-14,46
+"Matthews, Stanley",Ohio,Garfield,1881-05-17,1889-03-22,47
+"Gray, Horace",Massachusetts,Arthur,1882-01-09,1902-09-15,48
+"Blatchford, Samuel",New York,Arthur,1882-04-03,1893-07-07,49
+"Lamar, Lucius Quintus C.",Mississippi,Cleveland,1888-01-18,1893-01-23,50
+"Fuller, Melville Weston",Illinois,Cleveland,1888-10-08,1910-07-04,51
+"Brewer, David Josiah",Kansas,Harrison,1890-01-06,1910-03-28,52
+"Brown, Henry Billings",Michigan,Harrison,1891-01-05,1906-05-28,53
+"Shiras, George, Jr.",Pennsylvania,Harrison,1892-10-10,1903-02-23,54
+"Jackson, Howell Edmunds",Tennessee,Harrison,1893-03-04,1895-08-08,55
+"White, Edward Douglass",Louisiana,Cleveland,1894-03-12,1910-12-18,56
+"Peckham, Rufus Wheeler",New York,Cleveland,1896-01-06,1909-10-24,57
+"McKenna, Joseph",California,McKinley,1898-01-26,1925-01-05,58
+"Holmes, Oliver Wendell",Massachusetts,"Roosevelt, T.",1902-12-08,1932-01-12,59
+"Day, William Rufus",Ohio,"Roosevelt, T.",1903-03-02,1922-11-13,60
+"Moody, William Henry",Massachusetts,"Roosevelt, T.",1906-12-17,1910-11-20,61
+"Lurton, Horace Harmon",Tennessee,Taft,1910-01-03,1914-07-12,62
+"Hughes, Charles Evans",New York,Taft,1910-10-10,1916-06-10,63
+"White, Edward Douglass",Louisiana,Taft,1910-12-19,1921-05-19,64
+"Van Devanter, Willis",Wyoming,Taft,1911-01-03,1937-06-02,65
+"Lamar, Joseph Rucker",Georgia,Taft,1911-01-03,1916-01-02,66
+"Pitney, Mahlon",New Jersey,Taft,1912-03-18,1922-12-31,67
+"McReynolds, James Clark",Tennessee,Wilson,1914-10-12,1941-01-31,68
+"Brandeis, Louis Dembitz",Massachusetts,Wilson,1916-06-05,1939-02-13,69
+"Clarke, John Hessin",Ohio,Wilson,1916-10-09,1922-09-18,70
+"Taft, William Howard",Connecticut,Harding,1921-07-11,1930-02-03,71
+"Sutherland, George",Utah,Harding,1922-10-02,1938-01-17,72
+"Butler, Pierce",Minnesota,Harding,1923-01-02,1939-11-16,73
+"Sanford, Edward Terry",Tennessee,Harding,1923-02-19,1930-03-08,74
+"Stone, Harlan Fiske",New York,Coolidge,1925-03-02,1941-07-02,75
+"Hughes, Charles Evans",New York,Hoover,1930-02-24,1941-06-30,76
+"Roberts, Owen Josephus",Pennsylvania,Hoover,1930-06-02,1945-07-31,77
+"Cardozo, Benjamin Nathan",New York,Hoover,1932-03-14,1938-07-09,78
+"Black, Hugo Lafayette",Alabama,"Roosevelt, F.",1937-08-19,1971-09-17,79
+"Reed, Stanley Forman",Kentucky,"Roosevelt, F.",1938-01-31,1957-02-25,80
+"Frankfurter, Felix",Massachusetts,"Roosevelt, F.",1939-01-30,1962-08-28,81
+"Douglas, William Orville",Connecticut,"Roosevelt, F.",1939-04-17,1975-11-12,82
+"Murphy, Frank",Michigan,"Roosevelt, F.",1940-02-05,1949-07-19,83
+"Stone, Harlan Fiske",New York,"Roosevelt, F.",1941-07-03,1946-04-22,84
+"Byrnes, James Francis",South Carolina,"Roosevelt, F.",1941-07-08,1942-10-03,85
+"Jackson, Robert Houghwout",New York,"Roosevelt, F.",1941-07-11,1954-10-09,86
+"Rutledge, Wiley Blount",Iowa,"Roosevelt, F.",1943-02-15,1949-09-10,87
+"Burton, Harold Hitz",Ohio,Truman,1945-10-01,1958-10-13,88
+"Vinson, Fred Moore",Kentucky,Truman,1946-06-24,1953-09-08,89
+"Clark, Tom Campbell",Texas,Truman,1949-08-24,1967-06-12,90
+"Minton, Sherman",Indiana,Truman,1949-10-12,1956-10-15,91
+"Warren, Earl",California,Eisenhower,1953-10-05,1969-06-23,92
+"Harlan, John Marshall",New York,Eisenhower,1955-03-28,1971-09-23,93
+"Brennan, William J., Jr.",New Jersey,Eisenhower,1956-10-16,1990-07-20,94
+"Whittaker, Charles Evans",Missouri,Eisenhower,1957-03-25,1962-03-31,95
+"Stewart, Potter",Ohio,Eisenhower,1958-10-14,1981-07-03,96
+"White, Byron Raymond",Colorado,Kennedy,1962-04-16,1993-06-28,97
+"Goldberg, Arthur Joseph",Illinois,Kennedy,1962-10-01,1965-07-25,98
+"Fortas, Abe",Tennessee,"Johnson, L.",1965-10-04,1969-05-14,99
+"Marshall, Thurgood",New York,"Johnson, L.",1967-10-02,1991-10-01,100
+"Burger, Warren Earl",Virginia,Nixon,1969-06-23,1986-09-26,101
+"Blackmun, Harry A.",Minnesota,Nixon,1970-06-09,1994-08-03,102
+"Powell, Lewis F., Jr.",Virginia,Nixon,1972-01-07,1987-06-26,103
+"Rehnquist, William H.",Arizona,Nixon,1972-01-07,1986-09-26,104
+"Stevens, John Paul",Illinois,Ford,1975-12-19,2010-06-29,105
+"O'Connor, Sandra Day",Arizona,Reagan,1981-09-25,2006-01-31,106
+"Rehnquist, William H.",Virginia,Reagan,1986-09-26,2005-09-03,107
+"Scalia, Antonin",Virginia,Reagan,1986-09-26,2016-02-13,108
+"Kennedy, Anthony M.",California,Reagan,1988-02-18,2018-07-31,109
+"Souter, David H.",New Hampshire,"Bush, G. H. W.",1990-10-09,2009-06-29,110
+"Thomas, Clarence",Georgia,"Bush, G. H. W.",1991-10-23,NA,111
+"Ginsburg, Ruth Bader",New York,Clinton,1993-08-10,2020-09-18,112
+"Breyer, Stephen G.",Massachusetts,Clinton,1994-08-03,NA,113
+"Roberts, John G., Jr.",Maryland,"Bush, G. W.",2005-09-29,NA,114
+"Alito, Samuel A., Jr.",New Jersey,"Bush, G. W.",2006-01-31,NA,115
+"Sotomayor, Sonia",New York,Obama,2009-08-08,NA,116
+"Kagan, Elena",Massachusetts,Obama,2010-08-07,NA,117
+"Gorsuch, Neil M.",Colorado,Trump,2017-04-10,NA,118
+"Kavanaugh, Brett M.",Maryland,Trump,2018-10-06,NA,119
+"Barrett, Amy Coney",Indiana,Trump,2020-10-27,NA,120

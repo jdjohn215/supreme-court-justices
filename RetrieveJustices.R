@@ -22,18 +22,19 @@ glimpse(orig.justices)
 clean.justices <- orig.justices %>%
   # remove the annotations from the date fields
   mutate(judicial_oath_taken = str_remove(judicial_oath_taken, coll("(a) ")),
-         judicial_oath_taken = str_remove(judicial_oath_taken, coll("(b ")),
-         judicial_oath_taken = str_remove(judicial_oath_taken, coll("(c") ),
+         judicial_oath_taken = str_remove(judicial_oath_taken, coll("(b) ")),
+         judicial_oath_taken = str_remove(judicial_oath_taken, coll("(c) ")),
          date_service_terminated = str_remove(date_service_terminated, coll("*"))) %>%
-  # remove the commas from dates
-  mutate(judicial_oath_taken = str_remove(judicial_oath_taken, ","),
-         date_service_terminated = str_remove(date_service_terminated, ",")) %>%
+  # fix one date which is missing a comma
+  mutate(judicial_oath_taken = str_replace(judicial_oath_taken, 
+                                           "December 10 1877",
+                                           "December 10, 1877")) %>%
   # convert date columns from character class to date class
   # see here for the date format codes: https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/strptime
   mutate(judicial_oath_taken = as.Date(judicial_oath_taken,
-                                       format = "%B %d %Y"),
+                                       format = "%B %d, %Y"),
          date_service_terminated = as.Date(date_service_terminated,
-                                           format = "%B %d %Y")) %>%
+                                           format = "%B %d, %Y")) %>%
   # add a numeric identifier for each appointment
   arrange(judicial_oath_taken) %>% # arrange by date appointed
   mutate(index = 1:n())
