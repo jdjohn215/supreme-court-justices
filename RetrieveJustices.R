@@ -33,7 +33,10 @@ clean.justices <- orig.justices %>%
   mutate(judicial_oath_taken = as.Date(judicial_oath_taken,
                                        format = "%B %d %Y"),
          date_service_terminated = as.Date(date_service_terminated,
-                                           format = "%B %d %Y"))
+                                           format = "%B %d %Y")) %>%
+  # add a numeric identifier for each appointment
+  arrange(judicial_oath_taken) %>% # arrange by date appointed
+  mutate(index = 1:n())
 
 glimpse(clean.justices)
 write_csv(clean.justices, "data/Justices.csv")
